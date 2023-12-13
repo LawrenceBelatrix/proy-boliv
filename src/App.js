@@ -21,10 +21,9 @@ function App() {
       <Componente5/>
       <Componente6/>
       
-      
     <Routes>
       <Route path="/" element={<Componente2 />} />
-      {/* <Route path="/componente2" element={<Componente2 />} /> */}
+      <Route path="/componente2" element={<Componente2 />} />
       
 
     </Routes>

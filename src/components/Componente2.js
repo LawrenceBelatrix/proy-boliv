@@ -164,7 +164,7 @@ export const Componente2 = () =>{
                                     <li>Carne.</li>
                                     <li>Papa.</li>
                                     <li>Maíz.</li>
-                                    <li>Aji.</li>
+                                    <li>Aji.</li> 
                                 </ul>
                             </div>
                         </p>
